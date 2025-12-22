@@ -19,6 +19,7 @@ namespace UserAPI.Controllers
 //Test-2
 //Test-3
 //SQL Updated
+//Move NP-5 and NP-6
         //Work done
 
 
